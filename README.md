@@ -2,7 +2,7 @@
 
 🖥️ Currently C# Developer and **Analysis and Information Systems** Student <br>
 
-<img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="20"/> Made in Brazil
+Made in Brazil  :brazil: :brazil:
 
 ## 🛠 My characteristics
 
