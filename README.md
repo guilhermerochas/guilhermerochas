@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there I'm Guilherme - Welcome to My Profile 
 
-<!--
-**guilhermerochas/guilhermerochas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Currently C# Developer and **Analysis and Information Systems** Student <br>
 
-Here are some ideas to get you started:
+<img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="20"/> Made in Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My characteristics
+
+- 💜 Pushing my efforts and improve my habilities at coding
+- 📖 Studing the world related to the .NET Core
+- 👪 Friendly and Open Minded
+- ⚙️ Working on Scientific Research and personal projects
+
+## A little bit of what I have been doing...
+
+Yeah I kinda like javascript 😂
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerochas)
+
+## 🐱‍👤 Skills
+
+- C# and dotnet framework
+- Flutter
+- Android Development
+- Linux
+- Docker
+- SQL
+- Java
+- and more...
