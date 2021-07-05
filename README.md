@@ -13,8 +13,6 @@ Made in Brazil  :brazil: :brazil:
 
 ## A little bit of what I have been doing...
 
-Yeah I kinda like javascript 😂
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerochas)
 
 ## 🐱‍👤 Skills
